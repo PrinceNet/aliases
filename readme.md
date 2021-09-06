@@ -1,7 +1,7 @@
-# Git Aliases
+# Aliases
 
-Here you can find my Git aliases that I use.  
-Feel free to use it and modify it as you need.  
+Here you can find my aliases that I use.  
+Feel free to use them and modify as you like.  
 If you have any suggestion please let me know =]
 
 ## License
